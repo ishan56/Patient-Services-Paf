@@ -1,0 +1,17 @@
+fieldset {
+    margin-top: 10px;
+}
+
+h3 {
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+.error_message {
+	color : red;
+}
+
+.required-sign {
+	color: red;
+	font-size: 12px;
+}
